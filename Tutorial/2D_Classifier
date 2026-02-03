@@ -1,0 +1,4 @@
+#Copy the code from the 2D classifier folder. Want to put it in a jupyter notebook and save the file type for notebooks (s/t like .ipyn rather than .py) so that person can run through tutorial easily in broken down chunks 
+#Want them to download open source dataset to use to demo this 2D classifier code. Only 10-15 or so, as want the training to work locally on their machines 
+#Where is says to download from XNAT ('importer'), can change that to write download from local database etc (in this case wherever the scans stored)
+#when done, can do pull request
